@@ -11,11 +11,10 @@
   <a href="https://www.linkedin.com/in/atryee-dhar-07b246218">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/ats_023">
-    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" />        
+  <a href="mailto:atryeedhar23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;&nbsp;
   <br>
-  Feel free to reach out to me at <a href='mailto:atryeedhar23@gmail.com'>atryeedhar23@gmail.com</a>
   
 </p>
 
