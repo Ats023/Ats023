@@ -30,7 +30,6 @@
   My stats :chart_with_upwards_trend:
 </h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Ats023&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ats023&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Ats023&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=Ats023&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ats023&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
