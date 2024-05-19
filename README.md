@@ -7,7 +7,7 @@
         <samp>
                  An Aspiring Software Developer pursuing Computer Science Engineering in <b>India</b>
                 <br>
-                Connect with me on <a href="https://www.linkedin.com/in/atryee-dhar-07b246218)">Linkedin</a>  and check out my coding profile at <a href="https://www.leetcode.com/in/ats023">LeetCode</a>
+                Connect with me on <a href="https://www.linkedin.com/in/atryee-dhar-07b246218)">Linkedin</a>  and check out my coding profile at <a href="https://www.leetcode.com/u/ats_023">LeetCode</a>
                 <br>
                 <br>
         </samp>
