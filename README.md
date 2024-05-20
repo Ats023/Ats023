@@ -19,10 +19,10 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ats023&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ats023&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/> -->
-<p>&nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ats023&theme=dark" alt="ats023" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ats023&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Ats023"/></p>
 
-<p><img src="https://komarev.com/ghpvc/?username=Ats023&label=Profile%20views&color=0e75b6&style=flat" alt="ats023" /> </p>
+<p>&nbsp<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ats023&theme=dark" alt="Ats023" /></p>
+
+<p><img src="https://komarev.com/ghpvc/?username=Ats023&label=Profile%20views&color=0e75b6&style=flat" alt="Ats023" /> </p>
 
 ![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
